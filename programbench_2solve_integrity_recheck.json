@@ -1,0 +1,33 @@
+{
+  "summary": {
+    "archives_scanned": 2,
+    "distinct_instances": 2,
+    "claimed_solved": 0,
+    "contaminated_archives": 0,
+    "clean_archives": 2,
+    "genuine_clean_solves": [],
+    "contaminated_solves": []
+  },
+  "verdicts": [
+    {
+      "instance": "abishekvashok__cmatrix.5c082c6",
+      "report_dir": "docs\\public_benchmark\\programbench_2solve_cleanroom_v2\\20260824_dtl-supermath-2solve-cleanroom-v2",
+      "archive": "docs\\public_benchmark\\programbench_2solve_cleanroom_v2\\20260824_dtl-supermath-2solve-cleanroom-v2\\abishekvashok__cmatrix.5c082c6\\submission.tar.gz",
+      "verdict": "CLEAN",
+      "reasons": [],
+      "claimed_solved": false,
+      "claimed_passed": "",
+      "details": {}
+    },
+    {
+      "instance": "ajeetdsouza__zoxide.67ca1bc",
+      "report_dir": "docs\\public_benchmark\\programbench_2solve_cleanroom_v2\\20260824_dtl-supermath-2solve-cleanroom-v2",
+      "archive": "docs\\public_benchmark\\programbench_2solve_cleanroom_v2\\20260824_dtl-supermath-2solve-cleanroom-v2\\ajeetdsouza__zoxide.67ca1bc\\submission.tar.gz",
+      "verdict": "CLEAN",
+      "reasons": [],
+      "claimed_solved": false,
+      "claimed_passed": "",
+      "details": {}
+    }
+  ]
+}

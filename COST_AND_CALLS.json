@@ -1,0 +1,59 @@
+{
+    "schema_version":  1,
+    "display_model":  "Jarvi3: Themis-G",
+    "backend":  "local GLM via http://127.0.0.1:8000/api/chat plus DTL/SuperMath verifier",
+    "cost_basis":  "external_api_billing_only",
+    "external_api_token_cost_usd":  "0.000000000000",
+    "external_api_prompt_token_cost_usd":  "0.000000000000",
+    "external_api_completion_token_cost_usd":  "0.000000000000",
+    "external_api_total_cost_usd":  "0.00",
+    "total_local_model_calls":  30,
+    "local_hardware_electricity_cost":  "not_measured_by_programbench",
+    "instances":  [
+                      {
+                          "instance_id":  "abishekvashok__cmatrix.5c082c6",
+                          "api_calls":  6,
+                          "model_name":  "Jarvi3: Themis-G",
+                          "api_url":  "http://127.0.0.1:8000/api/chat",
+                          "max_tokens":  1024,
+                          "cost_per_call_usd":  "0.000000000000",
+                          "instance_cost_usd":  "0.00"
+                      },
+                      {
+                          "instance_id":  "antonmedv__walk.bf802ef",
+                          "api_calls":  5,
+                          "model_name":  "Jarvi3: Themis-G",
+                          "api_url":  "http://127.0.0.1:8000/api/chat",
+                          "max_tokens":  768,
+                          "cost_per_call_usd":  "0.000000000000",
+                          "instance_cost_usd":  "0.00"
+                      },
+                      {
+                          "instance_id":  "cweill__gotests.2a672c5",
+                          "api_calls":  7,
+                          "model_name":  "Jarvi3: Themis-G",
+                          "api_url":  "http://127.0.0.1:8000/api/chat",
+                          "max_tokens":  768,
+                          "cost_per_call_usd":  "0.000000000000",
+                          "instance_cost_usd":  "0.00"
+                      },
+                      {
+                          "instance_id":  "ajeetdsouza__zoxide.67ca1bc",
+                          "api_calls":  6,
+                          "model_name":  "Jarvi3: Themis-G",
+                          "api_url":  "http://127.0.0.1:8000/api/chat",
+                          "max_tokens":  768,
+                          "cost_per_call_usd":  "0.000000000000",
+                          "instance_cost_usd":  "0.00"
+                      },
+                      {
+                          "instance_id":  "altdesktop__i3-style.f93821b",
+                          "api_calls":  6,
+                          "model_name":  "Jarvi3: Themis-G",
+                          "api_url":  "http://127.0.0.1:8000/api/chat",
+                          "max_tokens":  768,
+                          "cost_per_call_usd":  "0.000000000000",
+                          "instance_cost_usd":  "0.00"
+                      }
+                  ]
+}
